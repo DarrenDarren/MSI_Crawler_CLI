@@ -1,0 +1,13 @@
+{
+    "preprocess": [
+        {
+            "purpose": "To close the popup accept coockies modal",
+            "located_by": "id",
+            "id" : "onetrust-accept-btn-handler",
+            "action": "click",
+            "enable": true
+        }
+    ],
+    "price_xpath": "12345",
+    "in_stock_xpath": "67890"
+}
