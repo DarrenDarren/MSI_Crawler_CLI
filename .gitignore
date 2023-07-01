@@ -140,5 +140,6 @@ cython_debug/
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python
 
 # No need to commit to github
-driver/*
+driver/chromedriver
+driver/chromedriver.exe
 resources/*
