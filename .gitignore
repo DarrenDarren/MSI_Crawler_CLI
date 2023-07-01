@@ -142,4 +142,4 @@ cython_debug/
 # No need to commit to github
 driver/chromedriver
 driver/chromedriver.exe
-resources/*
+resources/*.xlsx
